@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.bigBang{
+	padding-top: 6px;
+	margin: 10px;
+	background-color: #f5f9fa;
+	height: 262px;
+	width: 266px;
+	border: 2px solid #DCD5DC;
+border-radius: 4px;
+}
+
+
+
+.dot{
+display: inline-block;	
+width: 18px;
+height: 18px;
+background-color: white;
+border: 2px solid #f0f0ff;
+padding: 0px;
+margin: 0px;
+margin-left: 4px;
+border-radius: 4px;
+
+}
+.dotOn{
+display: inline-block;	
+width: 18px;
+height: 18px;
+background-color: #6D54AD;
+border: 2px solid #DCD5DC;
+border-radius: 4px;
+padding: 0px;
+margin: 0px;
+margin-left: 4px;
+
+
+}
+#score{
+font-family: Gill Sans, Verdana;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+	margin-left: 30px;
+	color: #bbb;
+}
+.dotEat{
+	background-color: #FFD600;
+}
